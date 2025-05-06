@@ -1,0 +1,2 @@
+pip install pandas==2.1.4 numpy==1.26.4 faiss-cpu==1.11.0 sentence-transformers==4.1.0 yake==0.4.8 spacy==3.7.2 networkx==3.4.2 py2neo hf_xet
+python -m spacy download ro_core_news_lg
